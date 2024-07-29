@@ -20,3 +20,11 @@ This project is a React-based application inspired by the Starbucks theme. It de
 - Clone the repo
 - `npm install`
 - Navigate to the port `http://localhost:5173/`
+
+
+
+## Acknowledgements
+
+- Inspired by Starbucks for the theme and design.
+- Thanks to the open-source community for the amazing tools and libraries.
+- Thanks to [Dribble](https://dribbble.com/) and [Pinterest](https://www.pinterest.com/) for your cool gifs.
